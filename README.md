@@ -8,7 +8,7 @@ Remember to run the database and the app at the same time on seperate terminal t
 
 ## To run the database
 clone this repository to your computer:\
-`git clone https://github.com/hebaulf/mern-app.git`
+`git clone https://github.com/hebaulf/mern-database.git`
 
 <br>
 
